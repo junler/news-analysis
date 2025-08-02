@@ -1,6 +1,6 @@
-News Bias and Diversity Analysis System
+# Sentiment and Diversity Analysis System for News in Different Regions
 
-This is a news analysis app built using Streamlit that analyzes the bias and diversity of news in different regions.
+This is a news analysis app built using machine learning models and Streamlit to analyze the sentiment and diversity of news in different regions.
 
 ## Features
 
